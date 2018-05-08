@@ -1,2 +1,2 @@
 # Temperature-Converter
-Simple temperature converter
+Simple javascript temperature converter
